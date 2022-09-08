@@ -5,7 +5,7 @@
 
 #
 
-### Hi there! I'm a 🧙‍♂️ apprentice, err... CS student at [UFRGS](http://www.ufrgs.br/ufrgs/inicial), currently working with video compression and ultra-low latency network protocols.
+### Hi there! I'm a 🧙‍♂️ apprentice, err... CS student at [UFRGS](http://www.ufrgs.br/ufrgs/inicial), currently working with video compression and ultra-low latency capital market applications.
 
   
 <!-- Languages and Tools -->    
