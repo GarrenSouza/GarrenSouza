@@ -13,7 +13,7 @@
 <div align="center">
   <img align="center" alt="GarrenSouza-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="GarrenSouza-OpenGl" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opengl/opengl-original.svg">
-  <img align="center" alt="GarrenSouza-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">    
+  <img align="center" alt="GarrenSouza-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bittorrent/bittorrent-original.svg">    
   <img align="center" alt="GarrenSouza-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="GarrenSouza-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="GarrenSouza-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">  
