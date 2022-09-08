@@ -37,16 +37,18 @@
 
 <div align="center">
   <h3> Technologies learned: </h3>
-  VisualStudio and C# / 
+  C#/C++ interop / 
   Linux system API /
   Unreal Engine API /
   OpenCV library /
   GLFW library /
   HEVC /
   VVC /
+  BitTorrent /
   FIX /
   SBE /
-  BitTorrent
+  PostgreSQL /
+  Django
 </div>
 
 ##
