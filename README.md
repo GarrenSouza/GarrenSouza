@@ -14,7 +14,7 @@
   <img align="center" alt="GarrenSouza-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="GarrenSouza-OpenGl" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opengl/opengl-original.svg">
   <img align="center" alt="GarrenSouza-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">    
-  <img align="center" alt="GarrenSouza-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unreal/unreal-original.svg">
+  <img align="center" alt="GarrenSouza-Linux" height="30" width="40" src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg">
   <img align="center" alt="GarrenSouza-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="GarrenSouza-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="GarrenSouza-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
