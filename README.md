@@ -45,8 +45,7 @@
   VVC /
   FIX /
   SBE /
-  BitTorrent /
-  PostgreSQL
+  BitTorrent
 </div>
 
 ##
