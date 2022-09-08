@@ -25,7 +25,7 @@
 <div align="center">
   <h3> Some of what I've been doing: </h3>
   <p> Design, project management, implementation and life cycle. <br>
-      Assembling the first effort in Latin America to get Web3 right by putting Computer Science, Law and Economics in the (same) loop.
+      Assembling the first effort in Latin America to get Web3 right by putting Computer Science, Law and Economics in the (same) loop. <br>
       Research in the leading edge of next-generation video codecs such as VVC and AV1 (got a paper at ISCAS '22 :D) <br>
       Low-level development of video compression extensions in C/C++ and Python. <br>
       Design of software life cycle processes. <br>
