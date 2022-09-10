@@ -32,7 +32,7 @@
       Low-level development of video compression extensions in C/C++ and Python. <br>
       Design of software life cycle processes. <br>
       Working with a talented bunch of people in extending and maintaining the leading software and hardware HFT applications in Brazil. <br> 
-      (http://mbochip.com/)</p>
+      (http://mbochip.com)</p>
 </div>
 
 <div align="center">
