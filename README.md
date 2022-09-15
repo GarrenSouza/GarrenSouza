@@ -28,7 +28,7 @@
   <h3> Some of what I've been doing: </h3>
   <p> Design, project management, implementation and life cycle. <br>
       Assembling the first effort in Latin America to get Web3 right by putting Computer Science, Law and Economics in the (same) loop. <br>
-      Research in the leading edge of next-generation video codecs such as VVC and AV1 (got a paper at [ISCAS '22] (https://epapers.org/iscas2022/ESR/session_view.php?PHPSESSID=2o1sddni1ja80ninvccp13ei05&session_id=86) :D) <br>
+      Research in the leading edge of next-generation video codecs such as VVC and AV1 (got a paper at <a href="https://epapers.org/iscas2022/ESR/session_view.php?PHPSESSID=2o1sddni1ja80ninvccp13ei05&session_id=86">ISCAS '22</a> :D) <br>
       Low-level development of video compression extensions in C/C++ and Python. <br>
       Design of software life cycle processes. <br>
       Working with a talented bunch of people in extending and maintaining the leading software and hardware HFT applications in Brazil. <br> 
