@@ -5,7 +5,7 @@
 
 #
 
-### Hi there! I'm a 🧙‍♂️ apprentice, err... Computer Science undergrad student at [UFRGS](http://www.ufrgs.br/ufrgs/inicial) AND [Grenoble INP](https://www.grenoble-inp.fr/), currently working towards an internship in the software industry.
+### Hi there! I'm a 🧙‍♂️ apprentice, err... Computer Science undergrad student at [UFRGS](http://www.ufrgs.br/ufrgs/inicial) AND [Grenoble INP](https://www.grenoble-inp.fr/). Let's make some space for the nice stuff and build something interesting, what do you think?
 
   
 <!-- Languages and Tools -->    
