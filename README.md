@@ -1,6 +1,6 @@
 <!-- Pics -->
 <div align="center">
-  <img align="center" alt="GarrenSouza-allianz" height="140" style="border-radius:50px;" src="https://raw.githubusercontent.com/GarrenSouza/GarrenSouza/main/img/cover.png">
+  <img align="center" alt="GarrenSouza-allianz" height="140" style="border-radius:50px;" src="https://raw.githubusercontent.com/GarrenSouza/GarrenSouza/main/img/new-cover.png">
 </div>
 
 #
