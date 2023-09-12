@@ -5,7 +5,7 @@
 
 #
 
-### Hi there! I'm a 🧙‍♂️ apprentice, err... Computer Science undergrad student at [UFRGS](http://www.ufrgs.br/ufrgs/inicial), currently working with video compression and ultra-low latency capital market applications.
+### Hi there! I'm a 🧙‍♂️ apprentice, err... Computer Science undergrad student at [UFRGS](http://www.ufrgs.br/ufrgs/inicial) AND [Grenoble INP](https://www.grenoble-inp.fr/), currently working towards an internship in the software industry.
 
   
 <!-- Languages and Tools -->    
@@ -14,41 +14,41 @@
   <img align="center" alt="GarrenSouza-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="GarrenSouza-OpenGl" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opengl/opengl-original.svg">
   <img align="center" alt="GarrenSouza-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">    
-  <img align="center" alt="GarrenSouza-Linux" height="30" width="40" src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg">
+  <img align="center" alt="GarrenSouza-UnrealEngine" height="30" width="40" src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg">
   <img align="center" alt="GarrenSouza-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="GarrenSouza-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="GarrenSouza-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="GarrenSouza-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">  
-  <img align="center" alt="GarrenSouza-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="GarrenSouza-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="GarrenSouza-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="GarrenSouza-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
 </div>
 
 <div align="center">
   <h3> Some of what I've been doing: </h3>
   <p> Design, project management, implementation and life cycle. <br>
-      Assembling the first effort in Latin America to get Modern Governance right by putting Computer Science, Law and Economics in the (same) loop. <br>
-      Research in the leading edge of next-generation video codecs such as VVC and AV1 (got a paper at <a href="https://ieeexplore.ieee.org/document/9937683/">ISCAS '22</a> :D) <br>
-      Low-level development of video compression extensions in C/C++ and Python. <br>
-      Design of software life cycle processes. <br>
-      Working with a talented bunch of people in extending and maintaining the leading software and hardware HFT applications in Brazil. <br> 
-      (http://mbochip.com)</p>
+      Assembling a worlwide effort to get Modern Governance right by putting Computer Science, Law and Economics in the (same) loop @ Antæus Allianz. <br>
+      Research in the leading edge of next-generation video codecs such as VVC and AV1 (got a paper at <a href="https://ieeexplore.ieee.org/document/9937683/">ISCAS '22</a> :D). <br>
+      Low-level development of video compression extensions in C/C++ and Python for breakthrough processing platforms @ UFRGS. <br>
+      Design and development of leading software applications and exchange protocols in the High-Frequency Trading Market @ MBOCHIP. <br>
+      Learning first-hand how enterprise-level software is built for the cloud @ SAP. <br>
+      Pursuing a double degree @ UFRGS <-> Grenoble INP
 </div>
 
 <div align="center">
-  <h3> Technologies learned: </h3>
-  C#/C++ interop / 
+  <h3> Some of the stuff under my belt: </h3>
+  C++ /
+  TypeScrypt /
+  C#-interop /
   Linux system API /
   Unreal Engine API /
-  OpenCV library /
-  GLFW library /
+  OpenCV /
+  GLFW /
   HEVC /
   VVC /
   BitTorrent /
   FIX /
   SBE /
-  PostgreSQL /
-  Django
+  PostgreSQL
 </div>
 
 ##
