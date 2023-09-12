@@ -35,7 +35,7 @@
 </div>
 
 <div align="center">
-  <h3> Some of the stuff under my belt: </h3>
+  <h3> Some of the tools under my belt: </h3>
   C++ /
   TypeScrypt /
   C#-interop /
