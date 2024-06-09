@@ -28,7 +28,7 @@
   <h3> Some of what I've been doing: </h3>
   <p> DevOps, refactoring and migration of large-scale risk management systems in Corporate & Investment Banking @ <b>BNP Paribas CIB</b>. <br>
       Working to break into small and micro caps by joining Computer Science to Law and Finance in the Private Equity realm @ <b>Antæus Allianz</b>. <br>
-      Research in the leading edge of next-generation video compression for novel computing architectures (<a href="https://ieeexplore.ieee.org/document/9937683/">one of my latest papers</a> :D) @ <b>UFRGS</b>. <br>
+      Leading edge research in video compression for novel computing architectures (<a href="https://ieeexplore.ieee.org/document/9937683/">one of my latest papers</a> :D) @ <b>UFRGS</b>. <br>
       Low-level development of video compression extensions in C/C++ and Python for breakthrough processing platforms @ <b>UFRGS</b>. <br>
       Design and implementation of leading software systems and exchange protocols for the High-Frequency Trading industry @ <b>MBOCHIP</b>. <br>
       Learning first-hand how enterprise-level software is built for the cloud @ <b>SAP</b>. <br>
