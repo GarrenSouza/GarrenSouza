@@ -31,7 +31,7 @@
       Research in the leading edge of next-generation video compression for novel computing architectures (<a href="https://ieeexplore.ieee.org/document/9937683/">one of my latest papers</a> :D) @ <b>UFRGS</b>. <br>
       Low-level development of video compression extensions in C/C++ and Python for breakthrough processing platforms @ <b>UFRGS</b>. <br>
       Design and implementation of leading software systems and exchange protocols for the High-Frequency Trading industry @ <b>MBOCHIP</b>. <br>
-      Learning first-hand how enterprise-level software is built for the cloud @ SAP. <br>
+      Learning first-hand how enterprise-level software is built for the cloud @ <b>SAP</b>. <br>
       Pursuing a double degree @ <b>UFRGS && Grenoble INP</b>
 </div>
 
