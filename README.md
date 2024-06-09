@@ -4,51 +4,35 @@
 </div>
 
 #
-
-### Hi there! I'm a 🧙‍♂️ apprentice, err... Computer Science undergrad student at [UFRGS](http://www.ufrgs.br/ufrgs/inicial) AND [Grenoble INP](https://www.grenoble-inp.fr/). Let's make some space for the great stuff to happen and build something interesting, what do you think?
-
+<div align="center">
+<h2>Hi there! I'm on my way to become a 🧙‍♂️ as a CS undergrad @ <a href="http://www.ufrgs.br/ufrgs/inicial">UFRGS</a> && <a href="https://ensimag.grenoble-inp.fr/">ENSIMAG</a><br/>
+  Is there something that you want to build? Chances are I am interested! For goodness' sake let me know so we can figure it out!</h2>
+</div>
   
 <!-- Languages and Tools -->    
-
+<p></p>
 <div align="center">
   <img align="center" alt="GarrenSouza-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="GarrenSouza-OpenGl" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opengl/opengl-original.svg">
-  <img align="center" alt="GarrenSouza-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">    
-  <img align="center" alt="GarrenSouza-UnrealEngine" height="30" width="40" src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg">
   <img align="center" alt="GarrenSouza-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img align="center" alt="GarrenSouza-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="GarrenSouza-Go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
+  <img align="center" alt="GarrenSouza-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="GarrenSouza-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="GarrenSouza-OpenGl" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opengl/opengl-original.svg">
+  <img align="center" alt="GarrenSouza-UnrealEngine" height="30" width="40" src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg">
+  <img align="center" alt="GarrenSouza-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="GarrenSouza-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">  
   <img align="center" alt="GarrenSouza-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="GarrenSouza-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 </div>
 
 <div align="center">
   <h3> Some of what I've been doing: </h3>
-  <p> Design, project management, implementation and life cycle. <br>
-      Assembling a worlwide effort to get Modern Governance right by putting Computer Science, Law and Economics in the (same) loop @ Antæus Allianz. <br>
-      Research in the leading edge of next-generation video codecs such as VVC and AV1 (got a paper at <a href="https://ieeexplore.ieee.org/document/9937683/">ISCAS '22</a> :D). <br>
-      Low-level development of video compression extensions in C/C++ and Python for breakthrough processing platforms @ UFRGS. <br>
-      Design and development of leading software applications and exchange protocols in the High-Frequency Trading Market @ MBOCHIP. <br>
+  <p> DevOps, refactoring and migration of large-scale risk management systems in Corporate & Investment Banking @ <b>BNP Paribas CIB</b>. <br>
+      Working to break into small and micro caps by joining Computer Science to Law and Finance in the Private Equity realm @ <b>Antæus Allianz</b>. <br>
+      Research in the leading edge of next-generation video compression for novel computing architectures (<a href="https://ieeexplore.ieee.org/document/9937683/">one of my latest papers</a> :D) <b>UFRGS</b>. <br>
+      Low-level development of video compression extensions in C/C++ and Python for breakthrough processing platforms @ <b>UFRGS</b>. <br>
+      Design and implementation of leading software systems and exchange protocols for the High-Frequency Trading industry @ <b>MBOCHIP</b>. <br>
       Learning first-hand how enterprise-level software is built for the cloud @ SAP. <br>
-      Pursuing a double degree @ UFRGS <-> Grenoble INP
-</div>
-
-<div align="center">
-  <h3> Some of the tools under my belt: </h3>
-  C++ /
-  TypeScrypt /
-  C#-interop /
-  Linux system API /
-  Unreal Engine API /
-  OpenCV /
-  GLFW /
-  HEVC /
-  VVC /
-  BitTorrent /
-  FIX /
-  SBE /
-  PostgreSQL
+      Pursuing a double degree @ <b>UFRGS && Grenoble INP</b>
 </div>
 
 ##
