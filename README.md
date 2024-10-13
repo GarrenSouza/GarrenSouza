@@ -13,6 +13,7 @@
 <p></p>
 <div align="center">
   <img align="center" alt="GarrenSouza-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="GarrenSouza-Rust" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg">
   <img align="center" alt="GarrenSouza-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="GarrenSouza-Go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
   <img align="center" alt="GarrenSouza-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -25,14 +26,15 @@
 </div>
 
 <div align="center">
-  <h3> Some of what I've been doing: </h3>
-  <p> DevOps, refactoring and migration of large-scale risk management systems in Corporate & Investment Banking @ <b>BNP Paribas CIB</b>. <br>
+  <h3> Some of what I've done so far: </h3>
+  <p> CUDA programming in the Machine Learning Domain. <br>
+      DevOps, refactoring and migration of large-scale risk management systems in Corporate & Investment Banking @ <b>BNP Paribas CIB</b>. <br>
       Working to break into small and micro caps by joining Computer Science to Law and Finance in the Private Equity realm @ <b>Antæus Allianz</b>. <br>
-      Leading edge research in video compression for novel computing architectures (<a href="https://ieeexplore.ieee.org/document/9937683/">one of my latest papers</a> :D) @ <b>UFRGS</b>. <br>
+      Research in video compression for novel computing architectures (<a href="https://ieeexplore.ieee.org/document/9937683/">one of my latest papers</a> :D) @ <b>UFRGS</b>. <br>
       Low-level development of video compression extensions in C/C++ and Python for breakthrough processing platforms @ <b>UFRGS</b>. <br>
-      Design and implementation of leading software systems and exchange protocols for the High-Frequency Trading industry @ <b>MBOCHIP</b>. <br>
+      Design and implementation of software systems and exchange protocols for the High-Frequency Trading industry @ <b>MBOCHIP</b>. <br>
       Learning first-hand how enterprise-level software is built for the cloud @ <b>SAP</b>. <br>
-      Pursuing a double degree @ <b>UFRGS && Grenoble INP</b>
+      Pursuing a double degree @ <b>UFRGS (BSc. Comp. Sc.) && Grenoble INP (MSc. Artificial Intelligence)</b>
 </div>
 
 ##
