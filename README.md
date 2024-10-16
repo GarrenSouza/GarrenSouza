@@ -5,8 +5,10 @@
 
 #
 <div align="center">
-<h2>Hi there! I'm on my way to become a 🧙‍♂️ as a CS undergrad @ <a href="http://www.ufrgs.br/ufrgs/inicial">UFRGS</a> && <a href="https://ensimag.grenoble-inp.fr/">ENSIMAG</a><br/>
+<h2>Hi there! I'm Garren, welcome to my little corner 💻! While you are here, let me tell you that I'm on my way to graduation @<a href="https://ensimag.grenoble-inp.fr/">ENSIMAG</a> under the MSc. in Artificial Intelligence program and I can't wait to join a team where I can once more put what I've learned so far to use!<br/>
   Is there something that you want to build? Chances are I am interested! For goodness' sake let me know so we can figure it out!</h2>
+<h3>I am particularly interested (in no particular order) about Deep Learning, Large-scale Distributed Systems, Virtualization, Quantitative Finance and System-Level applications (including the OS itself 😊)</h3>
+  📩 contato.garren@gmail.com 📩
 </div>
   
 <!-- Languages and Tools -->    
@@ -29,11 +31,11 @@
   <h3> Some of what I've done so far: </h3>
   <p> CUDA programming in the Machine Learning Domain. <br>
       DevOps, refactoring and migration of large-scale risk management systems in Corporate & Investment Banking @ <b>BNP Paribas CIB</b>. <br>
-      Working to break into small and micro caps by joining Computer Science to Law and Finance in the Private Equity realm @ <b>Antæus Allianz</b>. <br>
-      Research in video compression for novel computing architectures (<a href="https://ieeexplore.ieee.org/document/9937683/">one of my latest papers</a> :D) @ <b>UFRGS</b>. <br>
+      Study over how small and micro-caps can leverage novel technology, law and finance to generate asymmetric returns in private equity @ <b>Antæus Allianz</b>. <br>
+      Research & Development in video compression for novel computing architectures (<a href="https://ieeexplore.ieee.org/document/9937683/">one of my latest papers</a> :D) @ <b>UFRGS</b>. <br>
       Low-level development of video compression extensions in C/C++ and Python for breakthrough processing platforms @ <b>UFRGS</b>. <br>
       Design and implementation of software systems and exchange protocols for the High-Frequency Trading industry @ <b>MBOCHIP</b>. <br>
-      Learning first-hand how enterprise-level software is built for the cloud @ <b>SAP</b>. <br>
+      Learning and contributing first-hand how enterprise-level software is built for the cloud in the Datasphere team @ <b>SAP</b>. <br>
       Pursuing a double degree @ <b>UFRGS (BSc. Comp. Sc.) && Grenoble INP (MSc. Artificial Intelligence)</b>
 </div>
 
