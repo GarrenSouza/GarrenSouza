@@ -7,7 +7,7 @@
 <div align="center">
 <h2>Hi there! I'm Garren, welcome to my little corner 💻! While you are here, let me tell you that I'm on my way to graduation @<a href="https://ensimag.grenoble-inp.fr/">ENSIMAG</a> under the MSc. in Artificial Intelligence program and I can't wait to join a team where I can once more put what I've learned so far to use!<br/>
   Is there something that you want to build? Chances are I am interested! For goodness' sake let me know so we can figure it out!</h2>
-<h3>I am particularly interested (in no particular order) about Deep Learning, Large-scale Distributed Systems, Virtualization, Quantitative Finance and System-Level applications (including the OS itself 😊)</h3>
+<h3>I am particularly interested (in no particular order) in Deep Learning, Large-scale Distributed Systems, Virtualization, Quantitative Finance and System-Level applications (including the OS itself 😊)</h3>
   📩 contato.garren@gmail.com 📩
 </div>
   
