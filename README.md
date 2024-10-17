@@ -29,7 +29,8 @@
 
 <div align="center">
   <h3> Some of what I've done so far: </h3>
-  <p> CUDA programming in the Machine Learning Domain. <br>
+  <p> Building with Retrieval-Augmented Generation architectures in the wild <br>
+      CUDA programming in the Machine Learning Domain. <br>
       DevOps, refactoring and migration of large-scale risk management systems in Corporate & Investment Banking @ <b>BNP Paribas CIB</b>. <br>
       Study over how small and micro-caps can leverage novel technology, law and finance to generate asymmetric returns in private equity @ <b>Antæus Allianz</b>. <br>
       Research & Development in video compression for novel computing architectures (<a href="https://ieeexplore.ieee.org/document/9937683/">one of my latest papers</a> :D) @ <b>UFRGS</b>. <br>
